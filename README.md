@@ -4,7 +4,20 @@ Some text
 
 <<<<<<< HEAD
 =======
-## Subhead
+## Tutorial
+write code -> git add . (add all files) -> git commit -m "Created README" -m description -> git push
 
-1 - Merging code from the branch to the master
->>>>>>> feature-readme-instructions
+mostra os ramos
+git branch ->
+
+
+cria novo ramo
+git checkout -b feature-readme-instructions
+
+mudar de ramo
+git checkout "name"
+
+// as atualizações feitas em um ramo só ficam nele
+
+unir o branch com o master 
+git merge "nome do branch"
