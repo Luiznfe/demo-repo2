@@ -14,6 +14,9 @@ git branch ->
 cria novo ramo
 git checkout -b feature-readme-instructions
 
+deletar branch 
+git checkout -d "name
+
 mudar de ramo
 git checkout "name"
 
